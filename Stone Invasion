@@ -1,0 +1,190 @@
+<!DOCTYPEhtml>
+
+<html oncontextmenu="return false">
+
+
+
+<header>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>		
+<br />
+<center>
+<h1><u><b>Stone Invasion</b></u></h1>
+<h1><u><b>A boring high school roleplay</b></u></h1>
+</center>
+<br />
+</header>
+
+
+<head>
+
+<title> Stone Invasion </title>
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body background="color-swatch.jfif" oncontextmenu="return false">
+	
+<ul>
+	
+<p style="color:green">Person 2 is close to the store and holding a coffee. </p>
+<p style="color:blue">Person 1 says How’s it going? </p>
+<p style="color:green"> Person 2 says Good, thanks. How about you?</p>
+<p style="color:blue"> Person 1 said Is it a good time to open the store today?</p>
+<p style="color:green"> Person 2 is still "drinking his coffee."</p>
+<p style="color:green"> Person 2 says Let me please have my coffee first.</p>
+<p style="color:green" >Person 2 is "leaning against the wall playing on his phone." </p>
+<p style="color:blue">Person 1 opens the door today at IGA. </p>
+<p style="color:yellow"> Person 3, walking past the security guard (Person 2), stopped and lit up a cigarette right in front of him.</p>
+<p style="color:yellow"> Person 3 what's up? To the security guard (Person 2) And "he enters the shopping centre while smoking."</p>
+<p style="color:yellow"> Person 3 looks over at Person 1 and curses at him in his face.</p>
+<p style="color:green" > Person 2 was not aware that Person 3 was smoking in the store, and Person 2 was preoccupied with this phone." </p>
+<p style="color:blue"> Person 1 leaves the counter and walks in his (Person 3) direction. Say to him, excuse me.</p>
+<p style="color:yellow"> Person 3 Ignores Person 1.</p>
+<p style="color:blue"> Person 1 yelling Excuse me twice, sir (Person 3), excuse me, you can’t smoke in here.</p>
+<p style="color:yellow"> Person 3  What? turned around as he flicked his cigarette to the ground.</p>
+<p style="color:blue"> Person 1 You can’t smoke in here; you (Person 3) need to pick that up.</p>
+<p style="color:yellow"> Person 3 walks off and kicks the display.</p>
+<p style="color:green"> Person 1 dashes to the counter, grabs the walkie-talkie, and dials to call Person 2.</p>
+<p style="color:blue"> Person 1 says there is someone in my store that is smoking and wrecking the place up! Please come quickly!</p>
+<p style="color:green"> Person 2 agrees and says, "Yes boss, I will come and get that smoker" (Person 3).</p>
+<p style="color:yellow"> Person 3 starts running through the store, creating chaos out of nowhere and knocking things off shelves like nobody's home.</p>
+<p style="color:blue"> Person 1 grabs Person 3 hand and says STOP. You can’t touch me. Get your hands off me.</p>
+<p style="color:blue"> Person 1 says, "I will call the police on you, boy, and you are wrecking my store." I ain't joking, boy, I’m still calling the police.</p>
+<p style="color:green"> Uncovered Police arrive (Person 2 aka the security guard) and he says what seems to be the problem.</p>
+<p style="color:blue"> Person 1 says this man (person 2) was harassing me in my store. I need him to be removed now.</p>
+<p style="color:green"> Person 2 to Person 3 Have you been smoking here, sir? You are breaking the law in this store; you can clearly see the sign outside of the store, you moron!</p>
+<p style="color:yellow"> Person 3 agree yes  I am, What are you going to do about it?</p>
+<p style="color:green"> Person 2 says that's not okay, sir (Person 3). What's your name?</p>
+<p style="color:yellow">Person 3 "Reply, my name is Person 3." </p>
+<p style="color:green"> Person 2 says to Person 3  have to give you a fine now because I have given you too many warnings; stop wasting my time; I have better crimes to solve. If I have to come here again, you will be arrested and banned.</p>
+<p style="color:blue"> Person 1 I will have a picture of you (Person 3) on the wall so you can’t come back here ever again you get it!</p>
+<p style="color:green"> Person 2 trying to gently move Zachary out of the shop.</p>
+<p style="color:yellow"> Person 3 was moved to the front of the store so that Person 2 could question him and fine him. </p>
+<p style="color:green"> Person 2 tells Person 3 What is your address?</p>
+<p style="color:yellow"> Person 3 was scared and said nothing.</p>
+<p style="color:green"> The Officer (person 2) says, "Can I see your driver's license?" to person 3.</p>
+<p style="color:yellow"> Person 3 reply: here you go, take a look!</p>
+<p style="color:green"> Person 2 says Right here is your fine of $100. I don’t want to see you here again Person 2 hands the fine to Person 3.</p>
+<p style="color:yellow"> Person 3 walks away but throws the fine on the ground.</p>
+<p style="color:blue"> Person 1 Thank you for all your help today, Officer (person 2) I hope I don’t see this shit again.</p>
+
+<br />
+         <p><u>Publisher: Scott N' Leary </u></p>
+	<p><u>Publishing Date: 9 October 2022</p></u>
+	</ul>
+</body>
+<style>
+html,body
+{
+width: 100%;
+
+height: 100%;
+
+
+
+overflow-x: hidden;	
+}
+header
+{
+
+	}
+	nav
+{
+position: fixed;
+top:0;
+left:0;
+width:100%;
+padding: 10px 90px;
+box-sizing: border-box;
+background: rgba(0,0,0,0.6);
+border-bottom: 1px solid #fff;
+}
+nav .logo
+{
+padding: 22px 20px;
+height: 80px;
+float: left;
+font-size: 24px;
+font-weight: bold;
+text-transform: uppercase;
+color:#fff;
+}
+nav ul
+{
+list-style: none;
+float: right;
+margin: 0;
+padding: 0;
+display: flex;
+}
+nav ul li a
+{
+line-height: 80px;
+color:#fff;
+padding: 12px 30px;
+text-decoration: none;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+}
+nav ul li a:hover
+{
+background: rgba(0,0,0,0.7);
+border-radius: 6px;
+}
+li
+{
+text-decoration: none;
+}
+col
+{
+width: 1000px;
+margin:auto;
+margin-top:15px;
+
+}
+.card
+{
+box-shadow:0 4px 8px 0 rgba(0,0,0,0.4);
+transition:0.4s;
+width:405px;
+background:gold;
+font-size:30px
+font-family:sans-serif;
+float:left;
+
+padding: 10px;
+}
+.card:hover
+{
+transform: scale(1.05);
+box-shadow: 0 0 40px rgba(0,0,0,0.4);
+}
+a
+{
+
+Color:#FFA500;
+}
+a:hover
+{
+color: blue;
+
+}
+
+
+
+
+
+
+
+
+</style>
+
+</html>
